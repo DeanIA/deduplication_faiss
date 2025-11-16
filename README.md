@@ -28,8 +28,8 @@ Finds neighbors within similarity radius and builds connected components using D
 Outputs results as JSONL with one line per duplicate pair, including all matched clips.
 
 <figure>
-  <img src="image.png" alt="3D Visualization of high dimentional embedding space">
-  <figcaption>3D Visualization of high dimensional embedding space</figcaption>
+  <img src="image.png" alt="3D Visualization of high dimensional embedding space">
+  <figcaption><em>3D Visualization of high dimensional embedding space</em></figcaption>
 </figure>
 
 ## How It Works
