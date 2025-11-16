@@ -27,7 +27,10 @@ Finds neighbors within similarity radius and builds connected components using D
 ### `write_dedup_jsonl()`
 Outputs results as JSONL with one line per duplicate pair, including all matched clips.
 
-![3D Visualization of high dimentional embedding space](image.png)
+<figure>
+  <img src="image.png" alt="3D Visualization of high dimentional embedding space">
+  <figcaption>3D Visualization of high dimensional embedding space</figcaption>
+</figure>
 
 ## How It Works
 
